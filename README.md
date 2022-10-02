@@ -16,8 +16,7 @@
 </div>
 
 
-
-# Hi, I’m [Jayesh 👋](https://jayesh-anand.com/)
+# Hi, I’m <div color = "blue">Jayesh<div> 👋
 ## 🚀 About me
 - Self-taught JavaScript developer.
 - Currently learning Full-Stack Web Development.
