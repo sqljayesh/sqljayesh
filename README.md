@@ -16,7 +16,7 @@
 </div>
 
 
-# Hi, I’m <div color = "blue">Jayesh<div> 👋
+# Hi, I’m {Jayesh 👋](#)
 ## 🚀 About me
 - Self-taught JavaScript developer.
 - Currently learning Full-Stack Web Development.
