@@ -18,9 +18,9 @@
 
 # Hi, I’m [Jayesh 👋](#)
 ## 🚀 About me
-- Self-taught JavaScript developer.
-- Currently learning Full-Stack Web Development.
-- Current year resolution is to become a Full-stack Web Developer.
+- Self-taught Java developer.
+- Currently Studying cloud Computing .
+- Current year resolution is to Get Hired.
 ## 🛠 Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
